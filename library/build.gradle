@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'fr.xgouchet'
+group = 'com.github.aefyr'
 
 
 dependencies {
